@@ -5,11 +5,14 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/bochao/hdl-projects/verilog-verilator/test_our/build
+
 ❯ ninja
 [1/2] Generating CMakeFiles/Vour.dir/Vour.dir/Vour_copy.cmake
 [8/8] Linking CXX executable Vour
+
 ❯ ./Vour
 Hello World
 - our.v:5: Verilog $finish
+
 ❯
 #+end_quote
